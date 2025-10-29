@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"artifact_registry","Source":"./artifact_registry","Dir":"artifact_registry"},{"Key":"gke","Source":"./gke","Dir":"gke"},{"Key":"vpc","Source":"./vpc","Dir":"vpc"}]}
