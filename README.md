@@ -87,8 +87,8 @@ terraform {
     prefix = "terraform/state"
   }
 }
-Create the backend bucket if it doesn’t exist:
 
+Create the backend bucket if it doesn’t exist:
 gsutil mb -p <PROJECT_ID> -l us-central1 gs://pollfish-bucket/
 
 📦 Variables and Configuration
